@@ -2,5 +2,3 @@ totally different content to merge later "content to append" "add content after 
 
 
 Adds a new line for test branch merge
-
-New line with master branch
