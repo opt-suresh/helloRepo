@@ -2,6 +2,8 @@ Happiness doesn't mean living alone but making others happy
 
 Happy Happy Happy Happiness
 
-This is the test line for next commit
+This is the test line for the next commit
 
-One more ine one more test
+One more line one more test
+
+A new line is added in Happiness.txt
