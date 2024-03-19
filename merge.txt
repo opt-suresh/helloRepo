@@ -6,3 +6,5 @@ Adds a new line for test branch merge
 =======
 totally different content to merge later "content to append" "add content after revert"
 >>>>>>> parent of 3296fe7 (text updated)
+
+Need to add some extra lines to commit from remote repo
