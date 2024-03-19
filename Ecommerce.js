@@ -60,10 +60,12 @@ describe('TestInNewUrl', ()=>{
     cy.task('excelToJsonConverter', fileName).then((result)=> //task created for exceToJson conversion and read by starting node junction as the Cypress Browser engine will not support
     {
       cy.log(result.data[2].C)
+	  cy.log(result.data[1].B)
     })
 
     cy.readFile(fileName).then((text)=>{  //readFile used for read the data directly from Exce sheet
       expect(text).to.include('IPHONE 13 PRO')
+	  
     })
     })
 })
